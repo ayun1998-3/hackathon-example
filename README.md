@@ -13,14 +13,12 @@ Project name: 不知道
 不知道
 
 ```bash
-pip install foobar
+placeholder code
 ```
 
 ## Usage
 
 不知道
-
-```python
 
 ## Contributing
 
@@ -32,4 +30,7 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+```
+
 ```
