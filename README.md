@@ -1,7 +1,11 @@
 # Hackathon Example
 
+## Description
+
 Team name: NullPointerException
+
 Team members: Austen Yun, Jiale Xu, Frank Wu
+
 Project name: 不知道
 
 ## Installation
